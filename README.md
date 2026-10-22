@@ -3,7 +3,7 @@
 An exploratory data analysis of the inaugural year of Major League Baseball’s Automated Ball-Strike (ABS) challenge system. This project investigates which teams, player positions, and strategies mastered the system, and tests whether high challenge success correlated with winning games.
 
 ## Project Overview & Executive Dashboard
-* **Executive Dashboard:** View the full analytical dashboard export (`Executive_Dashboard.pdf`) directly in this repository.
+* **Executive Dashboard:** View the full analytical dashboard export (`MLB_2026_ABS_Challenge_Analysis - executive_dashboard.pdf`) directly in this repository.
 * **Core Research Question:** *Which teams, players, and positions (catchers vs. batters) mastered the new ABS challenge system during its first year integrated, and did high challenge success actually correlate with winning games?*
 
 ## Key Findings & Summary
@@ -12,7 +12,7 @@ An exploratory data analysis of the inaugural year of Major League Baseball’s 
 * **Winning Correlation:** Regression analysis revealed a moderate positive correlation (r ≈ approx 0.45, R² = 0.204) between challenge overturn success and team run value, proving that efficient challenge execution directly supported winning team outcomes by swinging critical ball-strike counts.
 
 ## Repository Structure
-* `Executive_Dashboard.pdf` - Visual summary and multi-tab analysis dashboard.
+* `MLB_2026_ABS_Challenge_Analysis - executive_dashboard.pdf` - Visual summary and multi-tab analysis dashboard.
 * `abs-challenges-2026-team-summary.csv` - Team-level ABS challenge and run-value dataset.
 * `abs-challenges-2026-catcher.csv` - Catcher performance and challenge logs.
 * `abs-challenges-2026-batter.csv` - Batter performance and challenge logs.
